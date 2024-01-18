@@ -29,15 +29,14 @@
 
 - **Data Bases and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mysql,&perline=4)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode,&perline=4)](https://skillicons.dev)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    [![My Skills](https://skillicons.dev/icons?i=vite,figma,materialui,&perline=4)](https://skillicons.dev)
-
+   
+    [![My Skills](https://skillicons.dev/icons?i=vite,figma,materialui,terminal&perline=4)](https://skillicons.dev)
 
 
 </p>
