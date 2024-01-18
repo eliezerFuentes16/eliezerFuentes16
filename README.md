@@ -31,7 +31,7 @@
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode,&perline=4)](https://skillicons.dev)
 
-<br>
+
 
 - **Extras**:
 
