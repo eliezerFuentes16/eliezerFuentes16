@@ -27,12 +27,6 @@
 
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
 - **Data Bases and Tools**:
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mysql,&perline=4)](https://skillicons.dev)
