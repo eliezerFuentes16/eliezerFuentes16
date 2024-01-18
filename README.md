@@ -15,14 +15,14 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=python,php,javascrip,javat&perline=4)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,php,javascript,java&perline=4)](https://skillicons.dev)
 
 <br>   
     
 - **Frameworks**:
 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,angular,django,nodejs,laravel,springboot,&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,angular,django,nodejs,laravel,spring,&perline=4)](https://skillicons.dev)
 
 
 <br>
