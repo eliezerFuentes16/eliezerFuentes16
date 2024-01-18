@@ -22,7 +22,7 @@
 - **Frameworks**:
 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,angular,django,nodejs,laravel,spring,&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,django,nodejs,laravel,spring,&perline=4)](https://skillicons.dev)
 
 
 <br>
@@ -35,20 +35,15 @@
 
 - **Data Bases and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudiocode,mysql,&perline=4)](https://skillicons.dev)
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mysql,&perline=4)](https://skillicons.dev)
 
 <br>
 
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    [![My Skills](https://skillicons.dev/icons?i=vite,figma,materialui,&perline=4)](https://skillicons.dev)
+
 
 
 </p>
