@@ -22,7 +22,7 @@
 - **Frameworks**:
 
 
-  [![My Skills](https://skillicons.dev/icons?i=react,angular,django,nodejs,laravelspringboot,&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,angular,django,nodejs,laravel,springboot,&perline=4)](https://skillicons.dev)
 
 
 <br>
