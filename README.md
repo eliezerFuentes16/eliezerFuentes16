@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  [cite_start]<strong>Desarrollador de Software Full Stack y Mobile</strong> con más de 5 años de experiencia transformando ideas en soluciones digitales robustas, escalables y centradas en el usuario[cite: 7, 8]. [cite_start]Especializado en arquitecturas modernas y diseño sólido para web y móvil[cite: 9, 22].
+  <strong>Desarrollador de Software Full Stack y Mobile</strong> con 5 años de experiencia apasionado por construir soluciones digitales escalables y de alto impacto para web y móvil. Especializado en transformar ideas en aplicaciones robustas utilizando tecnologías modernas y principios de diseño como SOLID.
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Lo que hago
-* [cite_start]**Mobile:** Desarrollo de aplicaciones de alto impacto para iOS y Android con **Flutter** y **React Native**[cite: 20, 21].
-* [cite_start]**Web:** Creación de plataformas escalables usando **Next.js**, **React** y arquitecturas de **Microfrontends**[cite: 21, 22, 51].
-* [cite_start]**Backend:** Construcción de APIs potentes con **Django (Python)**, **Node.js** y **Laravel**[cite: 38, 51].
-* [cite_start]**Arquitectura:** Implementación de **SOLID**, **Domain-Driven Design (DDD)** y gestión de infraestructura en **AWS/GCP**[cite: 9, 22, 41].
+## 🚀 Perfil Profesional
+* **Senior Software Engineer:** Experiencia liderando equipos frontend y desarrollando soluciones de banca móvil y home banking.
+* **Full Stack & Mobile:** Especialista en **Flutter**, **React Native**, **Next.js** y **Django**.
+* **Arquitectura:** Aplicación de **Microfrontends** y **Domain-Driven Design (DDD)** para asegurar la mantenibilidad y calidad del software.
+* **Infraestructura:** Soporte y gestión de servidores en **AWS** y **GCP**.
 
 ## 🛠️ Stack Tecnológico
 
@@ -46,11 +46,12 @@
 
 ---
 
-### 📈 Mi trayectoria en breve
-- [cite_start]**Senior Software Engineer** en SL Innovation & Solutions (Miami, USA), liderando proyectos bancarios[cite: 17, 18, 20].
-- [cite_start]**Desarrollador Full Stack** en Wcar (Bogotá, Colombia), optimizando el mercado de vehículos[cite: 33, 35, 39].
-- [cite_start]**Ingeniero en Informática** (Próximo a graduarse en Junio 2025)[cite: 63, 65].
+### 💼 Experiencia Relevante
+- **SL Innovation & Solutions** | Senior Software Engineer (Miami, USA)
+- **Wcar** | Desarrollador Full Stack (Bogotá, Colombia)
+- **YUFI** | Desarrollador Full Stack (CDMX, México)
+- **GeniusPro** | Desarrollador Frontend (Tennessee, USA)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eliezerFuentes16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
