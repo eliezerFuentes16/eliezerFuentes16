@@ -14,7 +14,12 @@
   <a href="mailto:eliezermario008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eliezerFuentes16&label=Perfil%20Visto&color=36BCF7&style=flat" alt="Visitas al perfil" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🚀 Perfil Profesional
 * **Senior Software Engineer:** Experiencia liderando equipos frontend y desarrollando soluciones de banca móvil y home banking.
