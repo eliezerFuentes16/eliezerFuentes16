@@ -47,11 +47,8 @@
 ---
 
 ### 💼 Experiencia Relevante
+- **Interfell** | Frontend Developer (Orlando, USA)
 - **SL Innovation & Solutions** | Senior Software Engineer (Miami, USA)
 - **Wcar** | Desarrollador Full Stack (Bogotá, Colombia)
 - **YUFI** | Desarrollador Full Stack (CDMX, México)
 - **GeniusPro** | Desarrollador Frontend (Tennessee, USA)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliezerFuentes16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
